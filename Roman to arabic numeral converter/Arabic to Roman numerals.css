@@ -1,0 +1,44 @@
+
+body{
+	background-color:rgba(225,228,196,1);
+}
+ div{
+ 	margin:10% auto;
+ 	background-color:#000000;
+ 	height:300px;
+	width:80%;
+ }
+input[type="button"]{
+	background-color:skyblue;
+	font-size:x-large;
+}
+input[type="button"]:hover{
+	background-color:black;
+	color:white;
+}
+
+#output{
+	width:60%;
+	height:50px;
+	background-color:white;
+	border-color:skyblue;
+	font-size:x-large;
+	font-family:"Times New Roman";
+}
+.inp{
+	height:30px;
+	border-color:skyblue;
+	/*color:;*/
+	font-size:x-large;
+	font-family:"Times New Roman";
+}
+p{
+	color:white;
+}
+
+
+
+
+
+
+
